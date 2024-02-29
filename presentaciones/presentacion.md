@@ -6,19 +6,23 @@
 
 ## Docentes
 
-Los docentes a cargo de la comisión 2 son:
+Los docentes a cargo de la comisión 1 son:
 
 . . .
 
-* Damian Ariel Marotte (damarotte@gmail.com).
+* Hernán González (hernangonzalez.234@gmail.com).
 
 . . .
 
-* Andrea Carolina Leon Cavallo (aleoncavallo@gmail.com).
+* Augusto Álvarez Arnesi (alvarezarnesi@gmail.com).
 
 . . .
 
-* Nahuel Roldan (roldannahuelj@gmail.com).
+* Ariel D'Alessandro (ariel.dalessandro@gmail.com).
+
+. . .
+
+* Nicolás Di Marco (nicolasdimarc@gmail.com).
 
 ## Descripción
 
