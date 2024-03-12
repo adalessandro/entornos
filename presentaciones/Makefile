@@ -10,6 +10,10 @@ git:
 presentacion.pdf:
 	pandoc presentacion.md -s -o presentacion.pdf -t beamer -V aspectratio=169 -V theme=Warsaw -V fontsize=8pt -f markdown+implicit_figures
 
+presentacion-compact:
+	sed -e '/COMPACT/,+2d' presentacion.md > presentacion_compact.md
+	pandoc presentacion_compact.md -s -o presentacion_compact.pdf -t beamer -V aspectratio=169 -V theme=Warsaw -V fontsize=8pt -f markdown+implicit_figures
+
 historia.htm:
 	pandoc -s -t revealjs -o historia.htm historia.md --css historia.css
 
