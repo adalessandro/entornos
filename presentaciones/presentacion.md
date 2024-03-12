@@ -16,7 +16,7 @@ Los docentes a cargo de la comisión 1 son:
 [//]: # (COMPACT)
 . . .
 
-* Augusto Álvarez Arnesi (alvarezarnesi@gmail.com).
+* Augusto Alvarez Arnesi (alvarezarnesi@gmail.com).
 
 [//]: # (COMPACT)
 . . .
