@@ -89,15 +89,15 @@ Para lograr dichos objetivos se aprenderan las siguientes tecnologias:
 
 ## Metodología de Evaluación
 
-Para aprobar la materia el alumno deberá:
+Para aprobar la materia el alumno deberá (fechas tentativas):
 
 . . .
 
-* Aprobar un primer parcial teórico (9/4).
+* Aprobar un primer parcial teórico (12/4).
 
 . . .
 
-* Aprobar un segundo parcial teórico/práctico (28/5).
+* Aprobar un segundo parcial teórico/práctico (7/6).
 
 . . .
 
@@ -106,7 +106,7 @@ Para aprobar la materia el alumno deberá:
 . . .
 
 En caso de no aprobar alguno de los parciales, el alumno cuenta con una
-instancia adicional de recuperación (25/6).
+instancia adicional de recuperación (28/6).
 
 ## Plan de dictado
 
