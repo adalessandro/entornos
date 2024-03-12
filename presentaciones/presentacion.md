@@ -31,12 +31,12 @@ la Tecnicatura Universitaria en Inteligencia Artificial.
 
 . . .
 
-Está planificada para una duracion aproximada de 20 clases. Para la comisión 2
+Está planificada para una duracion aproximada de 20 clases. Para la comisión 1
 los horarios son:
 
-* Martes de 17:05 a 20:05hs (Salon de Actos o Laboratorio del segundo piso).
+* Martes de 18:00 a 20:00hs (virtual en https://meet.google.com/dse-yjqp-pgu).
 
-* Miercoles de 17:00 a 19:00hs (https://meet.google.com/hsj-dtvp-gwc).
+* Viernes de 19:00 a 22:00hs (presencial en Laboratorio 1er piso - Av. Pellegrini 250).
 
 . . .
 
@@ -44,7 +44,7 @@ Es importante matricularse en el campus virtual de la FCEIA:
 
 * https://campusv.fceia.unr.edu.ar/course/view.php?id=392
 
-La contraseña es: `Entorno-C2`
+La contraseña es: `Entorno-C1`
 
 ## Objetivos
 
