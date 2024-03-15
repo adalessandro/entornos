@@ -55,6 +55,29 @@ su proyecto sentó las bases para el desarrollo de las computadoras modernas
 y tuvo un gran impacto en el campo de la informática y la automatización.
 :::
 
+###### Máquina Analitica ######
+::: left
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J7ITqnEmf-g?si=rrmn9x_ICjGU4zte" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
+
+::: right
+-------------- -------------------------
+Desarrolladora Ada Lovelace
+Nacionalidad   Inglés
+Año            1843
+-------------- -------------------------
+:::
+
+::: bottom
+Ada Lovelace es considerada la primer programadora de la historia. Trabajó
+sobre la Máquina Analítica de Charles Babbage y desarrolló el primer algoritmo
+para computadoras. Dicho algoritmo fue publicado en 1843 y calculaba los números
+de Bernoulli. En las notas que acompañaban su algoritmo, daba cuenta del potencial
+que tenía la Máquina Analítica mucho más allá de cálculos numéricos.
+
+"[The Analytical Engine] might act upon other things besides number, were objects found whose mutual fundamental relations could be expressed by those of the abstract science of operations, and which should be also susceptible of adaptations to the action of the operating notation and mechanism of the engine...Supposing, for instance, that the fundamental relations of pitched sounds in the science of harmony and of musical composition were susceptible of such expression and adaptations, the engine might compose elaborate and scientific pieces of music of any degree of complexity or extent"
+:::
+
 ###### Teletipo ######
 
 ::: left
@@ -154,6 +177,30 @@ Laboratorio de Investigación Balística del Ejército de los Estados Unidos.
 :::
 
 ### La Informática Moderna ###
+
+###### COMPILADORES ######
+
+::: left
+![](https://3.bp.blogspot.com/-FRVX7Lw_CyU/WKN56Yk4GUI/AAAAAAAAAMM/FcGZncENw90WNzv0vRBTUxraa46eFurBgCLcB/s320/grace-hopper-wallpaper.jpg)
+:::
+
+::: right
+------------- -------------------------
+Desarrollador Grace Hopper
+Nacionalidad  Estadounidense
+Año           1952
+------------- -------------------------
+:::
+
+::: bottom
+Grace Hopper desarrolló el primer compilador para un lenguaje de programación de computadoras.
+Trabajó extensamente sobre la Harvard Mark 1, y también se la considera la primera en escribir
+un manual de computadoras (“A Manual of Operation for the Automatic Sequence Controlled Calculator.”).
+Creía que la programación debía simplificarse con un lenguaje legible basado en el hablado (el inglés en su caso),
+por lo que su compilador convertía términos en inglés a código de máquina utilizado por las computadoras.
+Basándose en ese trabajo, poco tiempo después creó el lenguaje FLOW-MATIC, que sirvió de inspiración para COBOL
+donde se admite una sintaxis del tipo **MOVE x TO y**, en lugar de los lenguajes tradicionales/matemáticos (**y=x;**).
+:::
 
 ###### FORTRAN ######
 
