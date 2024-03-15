@@ -4,7 +4,7 @@
 
 ::::: {.columns}
 ::: {.column width=45%}
-![](../apunte/gabinete.png)
+![](../apunte/imagenes/gabinete.png)
 :::
 ::: {.column width=55%}
 El gabinete de la PC es una carcasa que cubre y protege los componentes
@@ -36,7 +36,7 @@ de la computadora.
 
 ###### Placa Madre ######
 
-![Placa madre](../apunte/motherboard.png){width=45%}
+![Placa madre](../apunte/imagenes/motherboard.png){width=45%}
 
 La placa madre es la pieza central de una computadora, encargada de
 conectar y comunicar todos los componentes esenciales del sistema. A través
@@ -65,7 +65,7 @@ proporciona capacidades de audio.
 
 ::::: {.columns}
 ::: {.column width=45%}
-![](../apunte/psu.jpg)
+![](../apunte/imagenes/psu.jpg)
 :::
 ::: {.column width=55%}
 La PSU (Power Supply Unit) o fuente de alimentación se encarga de convertir la
@@ -91,7 +91,7 @@ para proteger los componentes de la computadora.
 
 ###### Microprocesador ######
 
-![Intel Core i9](../apunte/cpu.jpg){width=40%}
+![Intel Core i9](../apunte/imagenes/cpu.jpg){width=40%}
 
 La CPU (Unidad Central de Procesamiento) es el componente principal de
 una computadora que realiza la mayoría de las operaciones de procesamiento
@@ -120,7 +120,7 @@ básicas para aplicaciones informáticas y de juegos de baja exigencia.
 
 ::::: {.columns}
 ::: {.column width=45%}
-![](../apunte/ram.jpg)
+![](../apunte/imagenes/ram.jpg)
 :::
 ::: {.column width=55%}
 La memoria RAM (Random Access Memory o Memoria de Acceso Aleatorio) es un tipo
@@ -152,7 +152,7 @@ disco duro o en otro dispositivo de almacenamiento persistente.
 
 ::::: {.columns}
 ::: {.column width=45%}
-![](../apunte/disk.jpg)
+![](../apunte/imagenes/disk.jpg)
 :::
 ::: {.column width=55%}
 Un disco duro es un dispositivo de almacenamiento de datos magnético
@@ -178,7 +178,7 @@ para acceder a los datos en los platos. \
 
 ::::: {.columns}
 ::: {.column width=45%}
-![](../apunte/ssd.jpg)
+![](../apunte/imagenes/ssd.jpg)
 :::
 ::: {.column width=55%}
 Una SSD (Solid State Drive) es un dispositivo de almacenamiento de datos que
@@ -203,7 +203,7 @@ y tiempo de acceso.
 
 ###### Placa de Video ######
 
-![NVIDIA RTX 2080 Ti](../apunte/gpu.jpg){width=40%}
+![NVIDIA RTX 2080 Ti](../apunte/imagenes/gpu.jpg){width=40%}
 
 Una placa de video, también conocida como tarjeta gráfica, es un componente de
 hardware de la computadora que tiene como objetivo procesar y generar imágenes
